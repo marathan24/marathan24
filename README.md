@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sola_Maratha
+- 👋 Hi, I’m @marathan24
 - 👀 I’m interested in machine learning, competitive programming and blockchain
 - 🌱 I’m currently learning machine learning and DSA(C++)
 - 💞️ I’m looking to collaborate on ML projects
