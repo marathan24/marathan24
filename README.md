@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marathan24
-- 👀 I’m interested in machine learning, competitive programming and blockchain
-- 🌱 I’m currently learning machine learning and DSA(C++)
+- 👀 I’m interested in machine learning, natural language processing
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 Reach me at marathaashwarya@gmail.com
 
